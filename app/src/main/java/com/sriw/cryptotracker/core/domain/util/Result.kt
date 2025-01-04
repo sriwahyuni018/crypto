@@ -1,4 +1,4 @@
-package com.sriw.cryptotracker.util
+package com.sriw.cryptotracker.core.domain.util
 
 typealias DomainError = Error
 

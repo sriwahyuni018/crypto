@@ -1,4 +1,4 @@
-package com.sriw.cryptotracker.util
+package com.sriw.cryptotracker.core.presentation.util
 
 import com.sriw.cryptotracker.R
 
